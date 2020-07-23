@@ -1,0 +1,1 @@
+pyinstaller --onedir -F --additional-hooks-dir=. "Deck Tracker.pyw"
