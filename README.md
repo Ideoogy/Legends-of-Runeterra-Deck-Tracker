@@ -1,4 +1,5 @@
 # Legends-of-Runeterra-Deck-Tracker
 
 Deck Tracker for Riot Games' Legends of Runeterra Card Game
-An example video, images, and the actual installer can be found on https://runetracker.gg/
+Demo Video https://www.youtube.com/watch?v=exmE9zBLvM0
+Images examples are included in the github repository
